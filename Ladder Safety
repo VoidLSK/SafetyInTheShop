@@ -1,0 +1,39 @@
+<!DOCTYPE html>
+<html>
+<head>
+</head>
+<body>
+  <h1>Ladder Safety</h1>
+  <p>Some do's and don'ts of using a ladder in the theatre<. Using these rules will keep you safe./p>
+  <ol type="1">
+    <li>Make sure that the ladder is inspected and works</li>
+  </br>
+    <li>Don't put a ladder on a table or box to increase the height</li>
+  </br>
+    <li>Always face the ladder when ascending and descending</li>
+  </br>
+    <li>Do not use metal ladders around electricity, always use wooden ladders.</li>
+  </br>
+    <li>Ladder feet should be on a secure base Make sure the area under the ladder is free.</li>
+  </br>
+    <li>Straight ladders should be on level surfaces and use the 4:1 rule.</li>
+  </br>
+    <li>Tools and other objects should be secured against falling when using the ladder.</li>
+  </br>
+    <li>Maintain firm, level footing</li>
+  </br>
+    <li>Only one person on a ladder at a time but peers need to help hold at bottom for stability. No more than one person the ladder.</li>
+  </br>
+    <li>Never stand on top of ladder. Find the right ladder for the right job.</li>
+  </br>
+    <li>Always HOLD ON!</li>
+  </br>
+    <li>If you drop something from above yell "HEADS"</li>
+  </br>
+  </ol>
+</body>
+<style>
+body {
+}
+</style>
+</html>
